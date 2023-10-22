@@ -1,11 +1,3 @@
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-"""
-Created on Mon Jan 27 18:41:32 2020
-
-@author: vlad
-"""
-import ast
 import requests
 from datetime import datetime
 from typing import List

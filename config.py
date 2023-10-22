@@ -1,10 +1,3 @@
-"""
-Created on Wed Jan 29 10:29:55 2020
-
-@author: vlad
-"""
-
-#insert local parameters
 
 username = 'sillychubs'
 client_id ='5a93d42f0e7840f99f25e47634cce6c2'

@@ -1,10 +1,3 @@
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-"""
-Created on Wed Jan 29 10:29:55 2020
-
-@author: vlad
-"""
 import history
 import pandas as pd
 from time import sleep
